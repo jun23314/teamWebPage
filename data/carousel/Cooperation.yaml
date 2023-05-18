@@ -1,0 +1,12 @@
+weight: 3
+title: "Cooperation"
+description: >
+    <ul class="list-style-none">
+      <li>Collaborative Development</li>
+      <li>Team leader 이준희 in page management</li>
+      <li>Team member 신재우 in Linux</li>
+      <li>Team member 전규빈 in Git</li>
+      <li>Team member 부승민 in Container</li>
+      <li>Team member 최재성 in Web</li>
+    </ul>
+image: "img/carousel/partners.png"
