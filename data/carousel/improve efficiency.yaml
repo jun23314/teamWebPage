@@ -1,0 +1,10 @@
+weight: 2
+title: "able to improve the efficiency of one's work"
+description: >
+  <ul class="list-style-none">
+     <li>Support for a wide variety of themes</li>
+     <li>Easy and quick modification</li>
+     <li>Only use markdown</li>
+   </ul>
+image: "img/carousel/self-improvement.png"
+href: "faq" # 여기로 이동
