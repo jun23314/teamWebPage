@@ -2,7 +2,7 @@
 title = "리눅스 개요"
 date = "2023-05-24T15:00:00+09:00"
 tags = ["linux", "oss"]
-categories = ["linux", "oss"]
+categories = ["linux"]
 banner = "img/linux/linux.png"
 authors = ["신재우"]
 +++
