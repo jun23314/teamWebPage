@@ -7,13 +7,13 @@
 <meta name="googlebot" content="index,follow,snippet,archive">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title></title>
+<title>Container - First Blog</title>
 <meta name="author" content="DevCows" />
 
 
 
 
-<meta name="keywords" content="devcows, hugo, go">
+<meta name="keywords" content="devcows, hugo, go, Container">
 
 
 <meta name="description" content="Site template made by Devcows using Hugo">
@@ -36,7 +36,7 @@
 
 
 
-<link href="/teamWebPage/css/custom.css?1684647047" rel="stylesheet">
+<link href="/teamWebPage/css/custom.css?1685158128" rel="stylesheet">
 
 
 
@@ -66,7 +66,7 @@
 
 <meta property="og:locale" content="en_us">
 <meta property="og:site_name" content="Universal">
-<meta property="og:title" content="">
+<meta property="og:title" content="Container - First Blog">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://jun23314.github.io/teamWebPage/container/firstblog/" />
 <meta property="og:description" content="Site template made by Devcows using Hugo">
@@ -79,13 +79,13 @@
   <meta property="og:image:height" content="420">
 
 
-
+<meta property="og:updated_time" content="2023-05-20T13:50:46&#43;0200">
 
 
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@GoHugoIO">
-<meta name="twitter:title" content="">
+<meta name="twitter:title" content="Container - First Blog">
 
 <meta name="twitter:image" content="https://jun23314.github.io/teamWebPage/img/sharing-default.png">
 
@@ -139,10 +139,10 @@
             <div class="navbar-header">
                 <a class="navbar-brand home" href="/teamWebPage/">
                     
-                      <img src="/teamWebPage/img/logo.png" alt=" logo" class="hidden-xs hidden-sm" />
-                      <img src="/teamWebPage/img/logo-small.png" alt=" logo" class="visible-xs visible-sm" />
+                      <img src="/teamWebPage/img/logo.png" alt="Container - First Blog logo" class="hidden-xs hidden-sm" />
+                      <img src="/teamWebPage/img/logo-small.png" alt="Container - First Blog logo" class="visible-xs visible-sm" />
                     
-                    <span class="sr-only"> - go to homepage</span>
+                    <span class="sr-only">Container - First Blog - go to homepage</span>
                 </a>
                 <div class="navbar-buttons">
                     <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
@@ -306,7 +306,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1></h1>
+                <h1>Container - First Blog</h1>
             </div>
         </div>
     </div>
@@ -323,9 +323,61 @@
                     <div class="col-md-9" id="blog-post">
 
                         
+                          <p class="text-muted text-uppercase mb-small text-right">
+                            
+			      By <a href="/teamWebPage/authors/%EB%B6%80%EC%8A%B9%EB%AF%BC">부승민</a>
+                            
+                            
+                            
+                              
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                                  
+                              
+                              May 57, 20201
+                            
+                          </p>
+                        
 
                         <div id="post-content">
-                          
+                          <p>Docker란?
+Docker는 컨테이너 기술 기반의 오픈소스 가상화 플랫폼입니다</p>
+<p>container란?
+운영체제 수준의 가상화 기술로 리눅스 커널을 공유하면서 프로세스를 격리된 환경에서 실행하는 기술입니다.</p>
+<p>Docker의 시작
+Docker는 2013년 3월 산타클라라에서 열린 Pycon에서 Solomon Hykes가 The future of Linux Ciontainers(리눅스 컨테이너의 미래)라는 제목으로 세션을 발표하면서 세상에 처음 알려졌습니다.</p>
+<p>특징:
+운영체제 수준의 가상화
+컨테이너는 운영체제 수준의 가상화 기술입니다. 별도의 하드웨어 에뮬레이션 없이 리눅스 커널을 공유해 컨테이너를 실행하며, 게스트 OS 관리가 필요하지 않습니다.</p>
+<p>빠른 속도와 효율성
+하드웨어 에뮬레이션이 없으므로 컨테이너는 아주 빠르게 실행됩니다. 프로세스 격리를 위해 아주 약간의 오버헤드가 있지만 일반적인 프로세스를 실행하는 것과 거의 차이가 없습니다. 또한 하나의 머신에서 프로세스만큼 많이 실행하는 것이 가능합니다.</p>
+<p>높은 이식성(=확장성)
+모든 컨테이너는 호스트의 환경이 아닌 독자적인 실행 환경을 가지고 있습니다. 이 환경은 파일(Dockerfile)들로 구성되며, 이미지 형식으로 공유될 수 있습니다. 리눅스 커널을 사용하고 같은 컨테이너 런타임을 사용할 경우 컨테이너의 실행 환경을 공유하고 손쉽게 재현할 수 있습니다.</p>
+<p>롤백
+계층화에서 가장 유용한 부분은 아마도 롤백 기능일 것입니다. 모든 이미지에는 계층이 있으며, 현재의 이미지 반복이 적절하지 않은 경우 이전 버전으로 롤백하면 됩니다. 이 기능은 애자일(agile) 개발 접근 방식을 지원하며 툴 관점에서 실제로 지속적인 통합 및 연속 배포(Continuous Integration and Deployment, CI/CD) 를 수행하는 데 도움을 줍니다.</p>
+<p>OS overhead가 없으니 Start Time도 빠르고 자원 효율성도 높습니다. 그리고 가장 큰 장점 중의 하나로 Host OS가 어느 것이든지 상관없이 도커 엔진만 있으면 배포될 수가 있습니다.</p>
+
                         </div>
                         
                         
@@ -402,6 +454,10 @@
             
             
             <li>
+                <a href="/teamWebPage/categories/container">CONTAINER (2)</a>
+            </li>
+            
+            <li>
                 <a href="/teamWebPage/categories/lorem">LOREM (10)</a>
             </li>
             
@@ -438,6 +494,10 @@
     <div class="panel-body">
         <ul class="tag-cloud">
             
+            
+            <li >
+                <a href="/teamWebPage/tags/container"><i class="fas fa-tags"></i> container</a>
+            </li>
             
             <li >
                 <a href="/teamWebPage/tags/go"><i class="fas fa-tags"></i> go</a>
@@ -512,6 +572,32 @@
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
+                        <a href="https://jun23314.github.io/teamWebPage/container/secondblog/">
+                          
+                            <img src="/teamWebPage/img/placeholder.png" class="img-responsive" alt="Container - Second Blog">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://jun23314.github.io/teamWebPage/container/secondblog/">Container - Second Blog</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://jun23314.github.io/teamWebPage/container/firstblog/">
+                          
+                            <img src="/teamWebPage/img/placeholder.png" class="img-responsive" alt="Container - First Blog">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://jun23314.github.io/teamWebPage/container/firstblog/">Container - First Blog</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
                         <a href="https://jun23314.github.io/teamWebPage/blog/2021/08/01/categories-post/">
                           
                             <img src="/teamWebPage/img/banners/banner-4.jpg" class="img-responsive" alt="Categories Post">
@@ -520,32 +606,6 @@
                     </div>
                     <div class="name same-height-always">
                         <h5><a href="https://jun23314.github.io/teamWebPage/blog/2021/08/01/categories-post/">Categories Post</a></h5>
-                    </div>
-                </div>
-                
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="https://jun23314.github.io/teamWebPage/container/categories-post/">
-                          
-                            <img src="/teamWebPage/img/banners/banner-4.jpg" class="img-responsive" alt="Categories Post">
-                          
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="https://jun23314.github.io/teamWebPage/container/categories-post/">Categories Post</a></h5>
-                    </div>
-                </div>
-                
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="https://jun23314.github.io/teamWebPage/git/categories-post/">
-                          
-                            <img src="/teamWebPage/img/banners/banner-4.jpg" class="img-responsive" alt="Categories Post">
-                          
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="https://jun23314.github.io/teamWebPage/git/categories-post/">Categories Post</a></h5>
                     </div>
                 </div>
                 
