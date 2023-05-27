@@ -186,7 +186,7 @@ pluralizelisttitles = false
     about_us = "<p>2023년 1학기 오픈소스SW입문 팀 프로젝트 페이지입니다.</p>"
 
     # Format dates with Go's time formatting
-    date_format = "May 17, 2023"
+    date_format = "Jan 02, 2006"
 
     dropdown_mouse_over = false
 
