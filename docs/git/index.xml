@@ -13,9 +13,7 @@
       
       <guid>https://jun23314.github.io/teamWebPage/git/git/</guid>
       <description>Git이란 무엇인가 Git이란 버전 관리 시스템의 하나이다. 쉽게 말하면, 말 그대로 &amp;lsquo;버전&amp;rsquo;을 관리할 수 있는 수단이다. 수정 사항이나, 업데이트 사항 등을 그때 그때 바로 반영 할 수 있도록 하는 시스템을 말한다.
-Git의 주요 개념   Repository (저장소) : 소스 코드들이 저장되어 있는 물리적인 공간을 의미한다. 저장소를 통해서 작업자가 진행, 변경했던 사항들에 대해 알 수 있다.
-  Working Tree : 흔히 우리가 사용하는 &amp;lsquo;폴더&amp;rsquo;를 말한다.
-  Index (= Staging Area) : Commit을 실행하기 전의 저장소와 Working tree 사이에 존재하는 공간을 말한다.</description>
+Git의 주요 개념   Repository (저장소) : 소스 코드들이 저장되어 있는 물리적인 공간을 의미한다. 저장소를 통해서 작업자가 진행, 변경했던 사항들에 대해 알 수 있다.</description>
     </item>
     
     <item>
