@@ -23,9 +23,6 @@
     <loc>https://jun23314.github.io/teamWebPage/linux/categories-post/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://jun23314.github.io/teamWebPage/web/categories-post/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
     <loc>https://jun23314.github.io/teamWebPage/container/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
@@ -65,8 +62,8 @@
     <loc>https://jun23314.github.io/teamWebPage/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://jun23314.github.io/teamWebPage/web/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://jun23314.github.io/teamWebPage/authors/cjs/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
     <loc>https://jun23314.github.io/teamWebPage/authors/jane-doe/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
@@ -83,7 +80,16 @@
     <loc>https://jun23314.github.io/teamWebPage/linux/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>https://jun23314.github.io/teamWebPage/web/linked-post/</loc>
+    <loc>https://jun23314.github.io/teamWebPage/tags/web/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url><url>
+    <loc>https://jun23314.github.io/teamWebPage/web/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url><url>
+    <loc>https://jun23314.github.io/teamWebPage/web/history-of-the-web/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url><url>
+    <loc>https://jun23314.github.io/teamWebPage/web/about-web/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
     <loc>https://jun23314.github.io/teamWebPage/tags/go/</loc>
@@ -101,9 +107,6 @@
     <loc>https://jun23314.github.io/teamWebPage/linux/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://jun23314.github.io/teamWebPage/web/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
     <loc>https://jun23314.github.io/teamWebPage/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
@@ -116,9 +119,6 @@
     <loc>https://jun23314.github.io/teamWebPage/linux/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://jun23314.github.io/teamWebPage/web/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url><url>
     <loc>https://jun23314.github.io/teamWebPage/blog/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
@@ -129,9 +129,6 @@
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
     <loc>https://jun23314.github.io/teamWebPage/linux/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url><url>
-    <loc>https://jun23314.github.io/teamWebPage/web/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
     <loc>https://jun23314.github.io/teamWebPage/categories/starting/</loc>
@@ -150,7 +147,5 @@
     <loc>https://jun23314.github.io/teamWebPage/git/migrate-from-jekyll/</loc>
   </url><url>
     <loc>https://jun23314.github.io/teamWebPage/linux/migrate-from-jekyll/</loc>
-  </url><url>
-    <loc>https://jun23314.github.io/teamWebPage/web/migrate-from-jekyll/</loc>
   </url>
 </urlset>
