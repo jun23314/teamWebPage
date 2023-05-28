@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://jun23314.github.io/teamWebPage/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 May 2023 16:00:00 +0900</lastBuildDate><atom:link href="https://jun23314.github.io/teamWebPage/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux</title>
+      <link>https://jun23314.github.io/teamWebPage/tags/linux/</link>
+      <pubDate>Wed, 24 May 2023 16:00:00 +0900</pubDate>
+      
+      <guid>https://jun23314.github.io/teamWebPage/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oss</title>
+      <link>https://jun23314.github.io/teamWebPage/tags/oss/</link>
+      <pubDate>Wed, 24 May 2023 16:00:00 +0900</pubDate>
+      
+      <guid>https://jun23314.github.io/teamWebPage/tags/oss/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>golang</title>
       <link>https://jun23314.github.io/teamWebPage/tags/golang/</link>
