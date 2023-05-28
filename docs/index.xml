@@ -6,7 +6,76 @@
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://jun23314.github.io/teamWebPage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 May 2023 16:00:00 +0900</lastBuildDate><atom:link href="https://jun23314.github.io/teamWebPage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>리눅스 명령어</title>
+      <link>https://jun23314.github.io/teamWebPage/linux/linux-commands/</link>
+      <pubDate>Wed, 24 May 2023 16:00:00 +0900</pubDate>
+      
+      <guid>https://jun23314.github.io/teamWebPage/linux/linux-commands/</guid>
+      <description>가장 많이 사용되는 리눅스 명령어 TOP 50 ls - Linux에서 디렉터리를 나열하는 데 가장 자주 사용되는 명령입니다
+pwd - Linux에서 작업 디렉터리 명령 인쇄
+cd - 디렉터리를 탐색하는 Linux 명령
+mkdir - Linux에서 디렉터리를 만드는 데 사용되는 명령
+mv - Linux에서 파일 이동 또는 이름 바꾸기
+cp - mv와 유사하지만 Linux에서 파일을 복사할 때 사용합니다</description>
+    </item>
+    
+    <item>
+      <title>리눅스 개요</title>
+      <link>https://jun23314.github.io/teamWebPage/linux/linux-overview/</link>
+      <pubDate>Wed, 24 May 2023 15:00:00 +0900</pubDate>
+      
+      <guid>https://jun23314.github.io/teamWebPage/linux/linux-overview/</guid>
+      <description>개념 Linux®는 오픈소스 운영 체제(OS)입니다. 운영 체제(Operating System, OS)는 CPU, 메모리, 스토리지처럼 시스템의 하드웨어와 리소스를 직접 관리하는 소프트웨어입니다. OS는 애플리케이션과 하드웨어 사이에서 모든 소프트웨어와 작업을 수행하는 물리적 리소스를 연결합니다.
+Linux는 어떻게 작동하나요? OS를 자동차 엔진이라고 생각해 봅시다. 엔진은 자체적으로도 작동하지만 변속기와 차축 및 바퀴에 연결되면 차를 움직일 수 있습니다. 엔진이 제대로 작동하지 않으면 자동차는 움직이지 않게 됩니다.</description>
+    </item>
+    
+    <item>
+      <title>Container - Second Blog</title>
+      <link>https://jun23314.github.io/teamWebPage/container/secondblog/</link>
+      <pubDate>Sun, 21 May 2023 13:50:46 +0200</pubDate>
+      
+      <guid>https://jun23314.github.io/teamWebPage/container/secondblog/</guid>
+      <description>Container - First Blog에 이어서
+운영체제 수준의 가상화 &amp;amp; 빠른 속도와 효율성
+Virtual Machines(하드웨어 레벨의 가상화) Virtual Machines(VM ware, VirtualBox) 의 경우 하이퍼바이저(virtual box, Xen, KVM, VMware) 위에 Guest OS가 올라가는데 그 위에 Binary와 라이브러리 등을 모두 구성해야 하기에 무겁고 성능 저하가 발생합니다. (오버헤드 발생)
+Docker(Linux)(운영체제 레벨의 가상화) VM과 HostOS 까지 설치는 동일합니다.</description>
+    </item>
+    
+    <item>
+      <title>Container - First Blog</title>
+      <link>https://jun23314.github.io/teamWebPage/container/firstblog/</link>
+      <pubDate>Sat, 20 May 2023 13:50:46 +0200</pubDate>
+      
+      <guid>https://jun23314.github.io/teamWebPage/container/firstblog/</guid>
+      <description>Docker란? Docker는 컨테이너 기술 기반의 오픈소스 가상화 플랫폼입니다
+container란? 운영체제 수준의 가상화 기술로 리눅스 커널을 공유하면서 프로세스를 격리된 환경에서 실행하는 기술입니다.
+Docker의 시작 Docker는 2013년 3월 산타클라라에서 열린 Pycon에서 Solomon Hykes가 The future of Linux Ciontainers(리눅스 컨테이너의 미래)라는 제목으로 세션을 발표하면서 세상에 처음 알려졌습니다.
+특징: 운영체제 수준의 가상화 컨테이너는 운영체제 수준의 가상화 기술입니다.</description>
+    </item>
+    
+    <item>
+      <title>Web의 역사</title>
+      <link>https://jun23314.github.io/teamWebPage/web/web%EC%9D%98-%EC%97%AD%EC%82%AC/</link>
+      <pubDate>Tue, 02 May 2023 21:49:20 +0200</pubDate>
+      
+      <guid>https://jun23314.github.io/teamWebPage/web/web%EC%9D%98-%EC%97%AD%EC%82%AC/</guid>
+      <description>CERN의 소프트웨어 공학자 팀 버너스리가 1980년대에 제시한 정보 관리 시스템에 기반을 둔 서비스로 하이퍼텍스트 중심으로 구성되었다. 당시 CERN에서 인사 재배치 등이 자주 일어나면서 기존에 수행했던 실험의 결과를 비롯한 각종 문서들이 유실되는 비율이 높은 것을 보고 이를 줄이기 위한 방식으로 1989년에 &amp;ldquo;Information System: A Proposal&amp;quot;이라는 문서를 통하여 제안하였다. 또한 여러 연구기관에 흩어져있는 문서들을 체계화하여 전 세계의 대학 및 연구소들끼리의 상호 연구를 위해 정보를 신속하게 교환할 수 있도록 해야 한다고 판단하여 문서뿐만 아니라 소리, 동영상 등을 망라하는 데이터베이스를 구축하고 이를 전문 열람 소프트웨어로 열람하는 방식을 생각해 내게 되었다.</description>
+    </item>
+    
+    <item>
+      <title>Web이란</title>
+      <link>https://jun23314.github.io/teamWebPage/web/web%EC%9D%B4%EB%9E%80/</link>
+      <pubDate>Tue, 02 May 2023 21:49:20 +0200</pubDate>
+      
+      <guid>https://jun23314.github.io/teamWebPage/web/web%EC%9D%B4%EB%9E%80/</guid>
+      <description>월드 와이드 웹(World Wide Web)이란 인터넷에 연결된 사용자들이 서로의 정보를 공유할 수 있는 공간을 의미합니다.
+간단히 줄여서 WWW나 W3라고도 부르며, 간단히 웹(Web)이라고 가장 많이 불립니다.
+인터넷과 같은 의미로 많이 사용되고 있지만, 정확히 말해 웹은 인터넷상의 인기 있는 하나의 서비스일 뿐입니다.
+하지만 현재에는 인터넷과 웹이라는 단어가 서로 혼용되어 사용될 만큼 인터넷의 가장 큰 부분을 차지하고 있습니다.</description>
+    </item>
+    
     <item>
       <title>Categories Post</title>
       <link>https://jun23314.github.io/teamWebPage/blog/2021/08/01/categories-post/</link>
@@ -14,7 +83,7 @@
       
       <guid>https://jun23314.github.io/teamWebPage/blog/2021/08/01/categories-post/</guid>
       <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum.</description>
     </item>
     
     <item>
@@ -24,27 +93,7 @@ categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quo
       
       <guid>https://jun23314.github.io/teamWebPage/container/categories-post/</guid>
       <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
-    </item>
-    
-    <item>
-      <title>Categories Post</title>
-      <link>https://jun23314.github.io/teamWebPage/linux/categories-post/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/linux/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
-    </item>
-    
-    <item>
-      <title>Categories Post</title>
-      <link>https://jun23314.github.io/teamWebPage/web/categories-post/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/web/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Korea Aerospace University. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus.</description>
     </item>
     
     <item>
@@ -54,7 +103,7 @@ categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quo
       
       <guid>https://jun23314.github.io/teamWebPage/blog/2015/10/02/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt.</description>
     </item>
     
     <item>
@@ -64,27 +113,7 @@ menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipisc
       
       <guid>https://jun23314.github.io/teamWebPage/container/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
-    </item>
-    
-    <item>
-      <title>Linked post</title>
-      <link>https://jun23314.github.io/teamWebPage/linux/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/linux/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
-    </item>
-    
-    <item>
-      <title>Linked post</title>
-      <link>https://jun23314.github.io/teamWebPage/web/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/web/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt.</description>
     </item>
     
     <item>
@@ -93,8 +122,7 @@ menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipisc
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
       <guid>https://jun23314.github.io/teamWebPage/blog/2015/09/17/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.</description>
     </item>
     
     <item>
@@ -103,28 +131,7 @@ This document is a brief primer on using go templates.</description>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
       <guid>https://jun23314.github.io/teamWebPage/container/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Go is for lovers</title>
-      <link>https://jun23314.github.io/teamWebPage/linux/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/linux/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Go is for lovers</title>
-      <link>https://jun23314.github.io/teamWebPage/web/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/web/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.</description>
     </item>
     
     <item>
@@ -146,31 +153,12 @@ This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
-      <title>Hugo is for lovers</title>
-      <link>https://jun23314.github.io/teamWebPage/linux/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/linux/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://jun23314.github.io/teamWebPage/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hugo is for lovers</title>
-      <link>https://jun23314.github.io/teamWebPage/web/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/web/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://jun23314.github.io/teamWebPage/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
-    </item>
-    
-    <item>
       <title>Creating a new theme</title>
       <link>https://jun23314.github.io/teamWebPage/blog/2015/06/24/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
       <guid>https://jun23314.github.io/teamWebPage/blog/2015/06/24/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme.</description>
     </item>
     
     <item>
@@ -179,28 +167,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
       <guid>https://jun23314.github.io/teamWebPage/container/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>https://jun23314.github.io/teamWebPage/linux/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/linux/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>https://jun23314.github.io/teamWebPage/web/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/web/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme.</description>
     </item>
     
     <item>
@@ -209,8 +176,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jun23314.github.io/teamWebPage/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-Please feel free to contact us, our customer service center is working for you 24/7.</description>
+      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at.</description>
     </item>
     
     <item>
@@ -220,7 +186,7 @@ Please feel free to contact us, our customer service center is working for you 2
       
       <guid>https://jun23314.github.io/teamWebPage/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?</description>
     </item>
     
     <item>
@@ -230,9 +196,7 @@ Please feel free to contact us, our customer service center is working for you 2
       
       <guid>https://jun23314.github.io/teamWebPage/git/git/</guid>
       <description>Git이란 무엇인가 Git이란 버전 관리 시스템의 하나이다. 쉽게 말하면, 말 그대로 &amp;lsquo;버전&amp;rsquo;을 관리할 수 있는 수단이다. 수정 사항이나, 업데이트 사항 등을 그때 그때 바로 반영 할 수 있도록 하는 시스템을 말한다.
-Git의 주요 개념   Repository (저장소) : 소스 코드들이 저장되어 있는 물리적인 공간을 의미한다. 저장소를 통해서 작업자가 진행, 변경했던 사항들에 대해 알 수 있다.
-  Working Tree : 흔히 우리가 사용하는 &amp;lsquo;폴더&amp;rsquo;를 말한다.
-  Index (= Staging Area) : Commit을 실행하기 전의 저장소와 Working tree 사이에 존재하는 공간을 말한다.</description>
+Git의 주요 개념   Repository (저장소) : 소스 코드들이 저장되어 있는 물리적인 공간을 의미한다. 저장소를 통해서 작업자가 진행, 변경했던 사항들에 대해 알 수 있다.</description>
     </item>
     
     <item>
@@ -252,8 +216,7 @@ Git과의 연관성 Git  로컬에서 관리되는 버전 관리 시스템 직�
       
       <guid>https://jun23314.github.io/teamWebPage/blog/1/01/01/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become</description>
     </item>
     
     <item>
@@ -263,30 +226,7 @@ Git과의 연관성 Git  로컬에서 관리되는 버전 관리 시스템 직�
       
       <guid>https://jun23314.github.io/teamWebPage/container/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://jun23314.github.io/teamWebPage/linux/migrate-from-jekyll/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/linux/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://jun23314.github.io/teamWebPage/web/migrate-from-jekyll/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jun23314.github.io/teamWebPage/web/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become</description>
     </item>
     
   </channel>
